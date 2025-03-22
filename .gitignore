@@ -1,0 +1,15 @@
+.ropeproject
+catboost_info
+test_data
+train
+Users
+bruh.html
+bruh.py
+class_distribution.png
+confusion_matrix_Random Forest.png
+confusion_matrix.png
+submission.zip
+test.ipynb
+test.py
+train_using_regression.py
+training_history.png
